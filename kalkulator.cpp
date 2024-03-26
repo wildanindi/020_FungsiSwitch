@@ -75,7 +75,8 @@ int main()
 
        }
 
+       system("pause");
+       system("CLS");
        
-       
-    } 
+    } while();
 }
